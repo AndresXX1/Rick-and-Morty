@@ -1,33 +1,44 @@
-# Getting Started with Create React App
+# Rick and Morty (FrontEnd y BackEnd)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* 💬 Este es un trabajo integrador del bootcamp de soy Henry se utilizo la api de Rick and Morti para facilitar la carga de datos, salio en el 2do puesto de la botacion entre toda la cohorte
+* 🛠️ Intuitiva y de facil recorrido para el administrador
+* 📁 Soporta la subida y bajada de datos
+* 🪟 Realizada con Node.js, React, Redux, axios, y estilada con css puro y material UI
 
-## Available Scripts
+ <img width="1459" alt="スクリーンショット 2023-11-20 2 23 51" src="https://s1.elespanol.com/2023/09/26/series/hbo-max/797430333_236312055_1706x960.jpg"> 
 
-In the project directory, you can run:
+## 🌟 Quick Start
 
-### `npm start`
+1. 👤 Recorda que para loguearte necesitas un usuario administrador, para ello contactate con migo :D 
 
-Runs the app in the development mode.\ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\ The page will reload when you make changes.\ You may also see any lint errors in the console.
+<a href="https://www.linkedin.com/in/andres-vera-676414281/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 
-### `npm test`
+2. 🔑 cambia las rutas de las actions por las rutas de tu base de datos local
 
-Launches the test runner in the interactive watch mode.\ See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. ⬇️ Clona el repositorio
 
-### `npm run build`
+    ```bash
+    $ git clone https://github.com/AndresXX1/rick-and-morty
+    ```
 
-Builds the app for production to the `build` folder.\ It correctly bundles React in production mode and optimizes the build for the best performance.\ The build is minified and the filenames include the hashes.\ Your app is ready to be deployed!\ See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. 📦 Instala dependencias
 
-### `npm run eject`
+    ```bash
+    $ npm install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time.\ This command will remove the single build dependency from your project.\ Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them.\ All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them.\ At this point you're on your own.\ You don't have to ever use `eject`.\ The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature.\ However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+5. 🏃‍️ Inicia la aplicacion!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).\ To learn React, check out the [React documentation](https://reactjs.org/).
+    ```bash
+    $ npm run dev
 
-### Code Splitting
+    ```
 
-This section has moved here: [https://facebook.github.io/create
+
+
+## 🌐 Deploy de la aplicacion front del administrador para testear 
+El link del deploy lo di de baja por falta de uso proximamente lo deployo de nuevo
